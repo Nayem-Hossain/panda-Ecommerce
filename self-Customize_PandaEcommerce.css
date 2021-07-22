@@ -32,14 +32,19 @@ p {
 .categories img {
   height: 100px;
 }
-.products{
+.products-gellary{
   background-color: #F4F4F4;
+  padding: 2rem 0;
 }
 .shoes-img-size img {
   width: 340px;
   height: 280px;
 }
-.shoes-img-size img {
+.backpacks-img-size img {
+  width: 300px;
+  height: 280px;
+}
+.watches-img-size img {
   width: 300px;
   height: 280px;
 }
@@ -50,4 +55,15 @@ p {
   padding: 14px 20px;
   border-radius: 6px;
   border: none;
+}
+.footer{
+  background-color: #FFF2F1;
+  padding: 5rem 0;
+}
+.footer-title{
+  font-family: Poppins;
+}
+.btn-submit{
+  background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
+  color: #F4F4F4;
 }
