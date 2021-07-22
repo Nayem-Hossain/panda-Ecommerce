@@ -12,6 +12,7 @@ p {
 }
 .image-slider-bg {
   background-color: #feeae9;
+  padding: 2rem;
 }
 .price-tag {
   font-family: Poppins;
